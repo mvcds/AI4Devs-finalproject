@@ -25,7 +25,15 @@ I'll use ChatGPT 4o to generate the prompts, except when specified otherwise
 finances based on their income (usually salary) [search the internet tool
 enabled] [RESULT](./prompts/1-manage-personal-finances.md)
 
-**Prompt 2:**
+**Prompt 2:** Role: You're a specialist in personal finances management collaborating with a software developer to create an app
+
+Context: You need to educate the developer on the things they need to develop
+
+Goal: At this moment you both need to discuss about how to create the app
+
+Task: Try outline a plan about the basic broad features a common individual would care about when tracking their salary
+
+Feel free to ask me any question [RESULT](./prompts/2-product-planning.md)
 
 **Prompt 3:**
 
