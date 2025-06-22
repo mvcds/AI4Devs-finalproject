@@ -81,9 +81,7 @@ simple, flexible way
 
 ### **1.3. Diseño y experiencia de usuario:**
 
-> Proporciona imágenes y/o videotutorial mostrando la experiencia del usuario
-> desde que aterriza en la aplicación, pasando por todas las funcionalidades
-> principales.
+![Main User Journey](./prompts/4-main-user-journey.png)
 
 ### **1.4. Instrucciones de instalación:**
 
