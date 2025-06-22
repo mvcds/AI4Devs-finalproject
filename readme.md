@@ -37,8 +37,6 @@
 
 ## 1. Descripción general del producto
 
-> Describe en detalle los siguientes aspectos del producto:
-
 ### **1.1. Objetivo:**
 
 This product helps people take full control of their personal finances in a
