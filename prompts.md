@@ -17,9 +17,13 @@
 
 ---
 
+I'll use ChatGPT 4o to generate the prompts, except when specified otherwise
+
 ## 1. Descripción general del producto
 
-**Prompt 1:**
+**Prompt 1:** Summarize the main things a person has to know to manage personal
+finances based on their income (usually salary) [search the internet tool
+enabled] [RESULT](./prompts/1-manage-personal-finances.md)
 
 **Prompt 2:**
 

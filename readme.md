@@ -13,11 +13,11 @@
 
 ## 0. Ficha del proyecto
 
-### **0.1. Tu nombre completo:**
+### **0.1. Tu nombre completo:** Marcos Vinícius Correia da Silva
 
-### **0.2. Nombre del proyecto:**
+### **0.2. Nombre del proyecto:** Salary Tracker
 
-### **0.3. Descripción breve del proyecto:**
+### **0.3. Descripción breve del proyecto:** Manage how much you earn, spend, and save in an intuitive way
 
 ### **0.4. URL del proyecto:**
 
