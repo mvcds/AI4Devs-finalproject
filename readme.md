@@ -46,8 +46,40 @@ simple, flexible way
 
 ### **1.2. Características y funcionalidades principales:**
 
-> Enumera y describe las características y funcionalidades específicas que tiene
-> el producto para satisfacer las necesidades identificadas.
+# 🚀 Feature Highlights
+
+- 📊 **Smart Money Tracking**  
+  Log all transactions and store receipts in one place.  
+  _Helps users understand where their money goes, making budgeting accurate and
+  easy._
+
+- 🔁 **Flexible Recurrence & Installments**  
+  Automate repeatead transactions over time.  
+  _Reduces manual work and avoids missed payments or surprises._
+
+- 💸 **Budget Overview**  
+  Visual dashboards and charts show spending, income, and budget usage in real
+  time.  
+  _Gives users clear insights to plan ahead and avoid overspending._
+
+- 🎯 **Financial Goals & Simulations**  
+  Set finance goals and simulate changes to plan smarter.  
+  _Empowers users to stay motivated and prepare for future financial scenarios._
+
+- 🔔 **Notifications & Reminders**  
+  Get alerts for paydays, budget limits, and goal milestones, plus monthly
+  recaps.  
+  _Keeps users informed and helps them stick to their plan without surprises._
+
+- 🔄 **Cross-Platform & Offline**  
+  Use the product on any device, sync automatically, and log transactions even
+  without internet.  
+  _Ensures users have access anytime, anywhere with safe and up-to-date data._
+
+- 🔐 **Robust Security**  
+  Secure login, encryption for all data, and optional two-factor
+  authentication.  
+  _Protects sensitive financial information and builds trust with users._
 
 ### **1.3. Diseño y experiencia de usuario:**
 
