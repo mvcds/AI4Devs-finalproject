@@ -41,7 +41,8 @@
 
 ### **1.1. Objetivo:**
 
-> Propósito del producto. Qué valor aporta, qué soluciona, y para quién.
+This product helps people take full control of their personal finances in a
+simple, flexible way
 
 ### **1.2. Características y funcionalidades principales:**
 

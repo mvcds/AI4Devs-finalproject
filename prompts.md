@@ -35,7 +35,23 @@ Task: Try outline a plan about the basic broad features a common individual woul
 
 Feel free to ask me any question [RESULT](./prompts/2-product-planning.md)
 
-**Prompt 3:**
+**Prompt 3:** Role: You're a prompt engineering expert ready to use the most fitting techniques
+
+Task: Create a prompt to generate the description of the product
+
+Context:
+
+The description should contain
+
+- Goal: which value it brings, what it solves, and to whom
+- Characteristics and main functionalities: identify necessities and how we can solve them
+- Highlight of the main functionalities
+
+Output: a markdown prompt that i can copy-and-paste
+
+Input: [I'll paste the file]
+
+Feel free to ask me any question before begin [RESULT](./prompts/3-metaprompt.md)
 
 ---
 
